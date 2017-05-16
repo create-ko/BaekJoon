@@ -1,17 +1,20 @@
+package Step2;
+
 import java.util.Scanner;
 
 /**
  * Created by seung_hee on 2017. 5. 16..
  */
-public class Number11719 {
+public class Number10998 {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
-
-        while(sc.hasNext()){
-            String s = sc.nextLine();
-            if(!(s.length()>100)){
-                System.out.println(s);
+        int a =sc.nextInt();
+        if(0<a){
+            int b=sc.nextInt();
+            if(b<10){
+                System.out.println(a*b);
             }
         }
+
     }
 }

@@ -1,6 +1,8 @@
+package Step1;
+
 import java.util.Scanner;
 
-//Number1000
+//Step1.Number1000
 public class Number1000 {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
