@@ -1,106 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c623922d-735b-48a7-b370-bab4a19458aa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number1406.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number1000.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number11719.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number2557.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number2558.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm2/Number1406.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step1/Number1001.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step2/Number1000.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number1000.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number10950.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number10951.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number10952.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number10953.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number11021.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number11022.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number11718.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number11719.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number11720.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number11721.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number2557.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number2558.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm2/Number10799.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm2/Number10828.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm2/Number1406.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm2/Number9012.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number10818.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number10991.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number10992.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number1924.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2438.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2439.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2440.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2441.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2442.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2444.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2445.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2446.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2522.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2739.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2741.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2742.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number8393.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step1/Number1000.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step1/Number1001.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step1/Number10172.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step1/Number10718.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step1/Number11719.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step1/Number2557.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step2/Number1000.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step2/Number1001.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step2/Number1008.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step2/Number10430.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step2/Number10869.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step2/Number10998.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step2/Number2558.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step2/Number2839.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number10950.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10950.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number10951.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10951.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number10952.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10952.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number10953.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10953.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number11021.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number11021.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number11022.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number11022.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number11718.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number11718.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number11720.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number11720.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number11721.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number11721.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm2/Number10799.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10799.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm2/Number10828.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10828.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm2/Number9012.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number9012.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number10818.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10818.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number10991.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10991.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number10992.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10992.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number1924.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number1924.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2438.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2438.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2439.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2439.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2440.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2440.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2441.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2441.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2442.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2442.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2444.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2444.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2445.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2445.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2446.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2446.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2522.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2522.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2739.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2739.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2741.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2741.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2742.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2742.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number8393.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number8393.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step1/Number1000.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number1000.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step1/Number10172.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10172.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step1/Number10718.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10718.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step1/Number11719.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number11719.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step1/Number2557.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2557.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step2/Number1001.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number1001.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step2/Number1008.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number1008.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step2/Number10430.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10430.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step2/Number10869.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10869.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step2/Number10998.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10998.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step2/Number2558.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2558.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step2/Number2839.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2839.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="c623922d-735b-48a7-b370-bab4a19458aa" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -786,7 +687,7 @@
       <option name="presentableId" value="Default" />
       <updated>1494833833245</updated>
       <workItem from="1494833836240" duration="7436000" />
-      <workItem from="1494915519122" duration="55992000" />
+      <workItem from="1494915519122" duration="56044000" />
     </task>
     <task id="LOCAL-00001" summary="Step 1">
       <created>1494900835601</created>
@@ -806,7 +707,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63428000" />
+    <option name="totallyTimeSpent" value="63480000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
