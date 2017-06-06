@@ -2,6 +2,103 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c623922d-735b-48a7-b370-bab4a19458aa" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number1406.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number1000.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number11719.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number2557.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number2558.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm2/Number1406.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step1/Number1001.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step2/Number1000.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number1000.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number10950.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number10951.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number10952.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number10953.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number11021.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number11022.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number11718.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number11719.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number11720.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number11721.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number2557.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm1/Number2558.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm2/Number10799.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm2/Number10828.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm2/Number1406.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm2/Number9012.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number10818.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number10991.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number10992.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number1924.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2438.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2439.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2440.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2441.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2442.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2444.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2445.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2446.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2522.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2739.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2741.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number2742.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Algorithm_class1/Number8393.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step1/Number1000.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step1/Number1001.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step1/Number10172.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step1/Number10718.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step1/Number11719.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step1/Number2557.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step2/Number1000.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step2/Number1001.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step2/Number1008.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step2/Number10430.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step2/Number10869.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step2/Number10998.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step2/Number2558.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Baekjoon/Step2/Number2839.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number10950.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10950.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number10951.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10951.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number10952.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10952.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number10953.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10953.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number11021.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number11021.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number11022.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number11022.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number11718.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number11718.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number11720.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number11720.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number11721.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number11721.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm2/Number10799.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10799.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm2/Number10828.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10828.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm2/Number9012.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number9012.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number10818.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10818.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number10991.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10991.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number10992.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10992.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number1924.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number1924.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2438.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2438.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2439.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2439.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2440.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2440.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2441.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2441.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2442.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2442.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2444.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2444.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2445.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2445.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2446.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2446.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2522.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2522.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2739.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2739.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2741.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2741.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2742.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2742.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number8393.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number8393.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step1/Number1000.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number1000.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step1/Number10172.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10172.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step1/Number10718.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10718.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step1/Number11719.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number11719.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step1/Number2557.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2557.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step2/Number1001.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number1001.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step2/Number1008.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number1008.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step2/Number10430.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10430.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step2/Number10869.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10869.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step2/Number10998.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10998.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step2/Number2558.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2558.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Baekjoon/src/Step2/Number2839.java" afterPath="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2839.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,20 +111,13 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Number10992.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number10992.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,23 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Baekjoon/src/Number1000.java" />
-        <option value="$PROJECT_DIR$/Baekjoon/src/Number1001.java" />
-        <option value="$PROJECT_DIR$/Baekjoon/src/Number10718.java" />
-        <option value="$PROJECT_DIR$/Baekjoon/src/Number11718.java" />
-        <option value="$PROJECT_DIR$/Baekjoon/src/Number11719.java" />
-        <option value="$PROJECT_DIR$/Baekjoon/src/Number10172.java" />
-        <option value="$PROJECT_DIR$/Baekjoon/src/Number2557.java" />
-        <option value="$PROJECT_DIR$/Baekjoon/src/Step2/Number10998.java" />
-        <option value="$PROJECT_DIR$/Baekjoon/src/Step2/Number1008.java" />
-        <option value="$PROJECT_DIR$/Baekjoon/src/Step2/Number10869.java" />
-        <option value="$PROJECT_DIR$/Baekjoon/src/Step2/Number10430.java" />
-        <option value="$PROJECT_DIR$/Baekjoon/src/Step2/Number2839.java" />
-        <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number10950.java" />
-        <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number10951.java" />
-        <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number10952.java" />
-        <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number10953.java" />
-        <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number11021.java" />
         <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number11022.java" />
         <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number1000.java" />
         <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number2558.java" />
@@ -79,7 +152,6 @@
         <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm2/Number10828.java" />
         <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm2/Number9012.java" />
         <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm2/Number10799.java" />
-        <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm2/Number1406.java" />
         <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2741.java" />
         <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2742.java" />
         <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2739.java" />
@@ -97,6 +169,25 @@
         <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2522.java" />
         <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number10991.java" />
         <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number10992.java" />
+        <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm2/Number1406.java" />
+        <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm_class2/Number1406.java" />
+        <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm_class2/Number10845.java" />
+        <option value="$PROJECT_DIR$/Baekjoon/src/Number11718.java" />
+        <option value="$PROJECT_DIR$/Baekjoon/src/Number2522.java" />
+        <option value="$PROJECT_DIR$/Baekjoon/src/Number10828.java" />
+        <option value="$PROJECT_DIR$/Baekjoon/src/Number10718.java" />
+        <option value="$PROJECT_DIR$/Baekjoon/src/Number10998.java" />
+        <option value="$PROJECT_DIR$/Baekjoon/src/Number10845.java" />
+        <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2442.java" />
+        <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number1158.java" />
+        <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10866.java" />
+        <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10808.java" />
+        <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10809.java" />
+        <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10820.java" />
+        <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2743.java" />
+        <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number11655.java" />
+        <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10824.java" />
+        <option value="$PROJECT_DIR$/Baekjoon/src/Algorithm/Number11656.java" />
       </list>
     </option>
   </component>
@@ -155,40 +246,8 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="intellij" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Baekjoon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm_class1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="intellij" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Baekjoon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Algorithm2" />
+              <option name="myItemId" value="Algorithm" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -210,6 +269,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Algorithm_class2" />
       <recent name="Step1" />
       <recent name="Step2" />
     </key>
@@ -217,15 +277,15 @@
       <recent name="$PROJECT_DIR$/Baekjoon/src/Step2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Number10992">
-    <configuration default="false" name="Number2445" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Number11656">
+    <configuration default="false" name="Number10820" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Algorithm_class1.*" />
+          <option name="PATTERN" value="Algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Algorithm_class1.Number2445" />
+      <option name="MAIN_CLASS_NAME" value="Algorithm.Number10820" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -238,14 +298,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Number2446" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Number2743" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Algorithm_class1.*" />
+          <option name="PATTERN" value="Algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Algorithm_class1.Number2446" />
+      <option name="MAIN_CLASS_NAME" value="Algorithm.Number2743" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -258,14 +318,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Number2522" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Number11655" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Algorithm_class1.*" />
+          <option name="PATTERN" value="Algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Algorithm_class1.Number2522" />
+      <option name="MAIN_CLASS_NAME" value="Algorithm.Number11655" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -278,14 +338,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Number10991" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Number10824" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Algorithm_class1.*" />
+          <option name="PATTERN" value="Algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Algorithm_class1.Number10991" />
+      <option name="MAIN_CLASS_NAME" value="Algorithm.Number10824" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -298,14 +358,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Number10992" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Number11656" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Algorithm_class1.*" />
+          <option name="PATTERN" value="Algorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Algorithm_class1.Number10992" />
+      <option name="MAIN_CLASS_NAME" value="Algorithm.Number11656" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -699,19 +759,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Number2445" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Number2446" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Number2522" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Number10991" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Number10992" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Number10820" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Number2743" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Number11655" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Number10824" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Number11656" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Number10992" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Number10991" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Number2522" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Number2446" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Number2445" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Number11656" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Number10824" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Number11655" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Number2743" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Number10820" />
       </list>
     </recent_temporary>
   </component>
@@ -726,7 +786,7 @@
       <option name="presentableId" value="Default" />
       <updated>1494833833245</updated>
       <workItem from="1494833836240" duration="7436000" />
-      <workItem from="1494915519122" duration="40576000" />
+      <workItem from="1494915519122" duration="55992000" />
     </task>
     <task id="LOCAL-00001" summary="Step 1">
       <created>1494900835601</created>
@@ -746,11 +806,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48012000" />
+    <option name="totallyTimeSpent" value="63428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -761,13 +821,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -815,7 +875,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="15" />
+      <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -824,301 +884,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Step1/Number10172.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Step1/Number10718.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Step2/Number1008.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Step2/Number10998.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="16" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Step2/Number10430.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Step2/Number10869.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number10951.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number10952.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="1614" column="24" lean-forward="true" selection-start-line="1614" selection-start-column="24" selection-end-line="1614" selection-end-column="24" />
-          <folding>
-            <element signature="e#52228#52229#0" expanded="true" />
-            <element signature="e#52286#52287#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number10950.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number10953.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number11021.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Step1/Number1001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number1000.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number2558.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number11022.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number2557.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number11718.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number11719.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number11720.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Step2/Number2839.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Step2/Number2558.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Step2/Number1000.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Step2/Number1001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Step1/Number1000.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Step1/Number11719.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Step1/Number2557.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm1/Number11721.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///private/var/folders/dd/dw7p964x623dlntbkbh3ls_m0000gn/T/2016-01-21 10;34;20.PNG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm2/Number9012.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="86" column="17" lean-forward="true" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm2/Number1406.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="44" column="28" lean-forward="true" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm2/Number10799.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm2/Number10828.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2739.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2742.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2741.java">
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2741.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
@@ -1126,31 +892,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2440.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2439.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2438.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number10818.java">
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10818.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
@@ -1158,7 +900,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number8393.java">
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number8393.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
@@ -1166,63 +908,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2441.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2444.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2442.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number1924.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2445.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2446.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number2522.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number10991.java">
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10991.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
@@ -1230,10 +916,392 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm_class1/Number10992.java">
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10992.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="17" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        <state relative-caret-position="540">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm_class2/Number1406.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Step2/Number1000.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Step1/Number1000.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2557.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2558.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10950.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10951.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10952.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10953.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number11021.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number11022.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number11718.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2446.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2522.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number9012.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10998.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10869.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10430.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10828.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10172.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10718.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2839.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number1000.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2444.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2442.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2441.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2440.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2439.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2438.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number1924.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number1406.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#461#472#0" expanded="true" />
+            <element signature="e#518#529#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number1008.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number1001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number1158.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="e#307#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10866.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10845.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10799.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10809.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10820.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2743.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10808.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number2445.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number11655.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number11656.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Baekjoon/src/Algorithm/Number10824.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
